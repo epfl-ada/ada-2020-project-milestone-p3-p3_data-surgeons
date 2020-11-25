@@ -31,7 +31,13 @@ Fetch pageviews for curated list of articles (may find a better source just like
 - https://en.wikipedia.org/wiki/Global_surveillance
 - https://en.wikipedia.org/wiki/Mass_surveillance
 - https://en.wikipedia.org/wiki/Private_browsing
-
+- https://en.wikipedia.org/wiki/Internet_privacy
+- https://en.wikipedia.org/wiki/Digital_privacy
+- https://en.wikipedia.org/wiki/Computer_and_network_surveillance
+- https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country
+- https://en.wikipedia.org/wiki/Global_surveillance
+- https://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States
+https://en.wikipedia.org/wiki/PRISM_(surveillance_program)
 (can find more, but for now it's a manually curated list that gives the idea)
 
 ## 3. methods
