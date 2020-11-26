@@ -1,4 +1,4 @@
-# Title : Privacy Seeking after the Chilling Effect!
+# Title : Online Surveillance and Privacy Seeking
 
 ## Abstract :
 The goal of the paper was to show the existence of a Chilling Effect using the Wikipedia pageviews of articles from a list of Terrorism related articles. On the other hand, we propose to study the effect on the will of seeking privacy-enhancing technologies, through what we hope would be an increase in the pageviews of privacy related articles. In order to prove it, we construct a curated list of articles which can correspond to the concept of [privacy](https://en.wikipedia.org/wiki/Category:Internet_privacy), and then provide an analysis using segmented regression (+ other methods we see fit) to examine the effect the PRISM reveal has on the search for privacy. We may also want to identify other instances in time where we see changes in the trend on pageviews for privacy-related articles.
