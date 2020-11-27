@@ -33,7 +33,7 @@ We should note that we cannot strengthen our work by comparing Wikipedia users a
 ## 4. Proposed Timeline
 
 ### Week 1
-- Creating our dataset by querying the API 
+- Creating our dataset by querying the API
 - Annotating our list of links.
 - Getting started on segmented regression analysis for each language edition.
 - Start writing report (“Introduction” and “Related Works” sections)
@@ -41,30 +41,30 @@ We should note that we cannot strengthen our work by comparing Wikipedia users a
 - Finalize segmented regression analysis.
 - Analyzing data to see if there are any other spikes in traffic that can be explained.
 - Enlarging scope to Wikipedia articles of different languages and make comparison
-- continue writing report (“Dataset” section including data collection and dataset description with summary statistics,Analyze report)
+- continue writing report (“Dataset” description and “Method” explanation)
 ### Week 3
-- Finalizing data analyze 
+- Finalizing data analyze
 - Work on video (script and visuals)
 - Writing data story
-- Finishing report (completing “Experiments and results” section)
+- Finishing report (completing results and reviewing the report)
 
 
 
 ## 5. Organization with the team:
 During week 1 everyone will work on annotating the given articles to construct our dataset.
 
-Daniel:
-- During week 1 or 2 (depending on how long the annotation process takes), Daniel will create code to query and process the Pageview API into a DataFrame suitable for our analysis. 
+### Daniel:
+- During week 1 or 2 (depending on how long the annotation process takes), Daniel will create code to query and process the Pageview API into a DataFrame suitable for our analysis.
 - During week 2 Daniel will analyze (and produce a figure of) the overall pageviews of wikipedia in comparison to our subgroup.
 - During week 3 Daniel will work a lot on the text of the report itself, while also working on the script for the video. He may also lend his beautiful voice to do the voicover in the video.
 
-Hatef:
-- During week 1, Hatef will annotate the articles for the dataset. 
+### Hatef:
+- During week 1, Hatef will annotate the articles for the dataset.
 - During week 1 and 2, Hatef works on “introduction” and “related works” of the report.
 - During week 2, Hatef will implement segmented regression for the privacy-related dataset before and after PRISM reveal event.
 - During week 3, Hatef works on the report and the slides of the video pitch.
 
-Léopaul:
+### Léopaul:
 - During week 1, Léopaul will work on generating the list of articles before annotation
 - During week 2, Léopaul will work on the segmented regression analysis, try to find relationships with the wikipedia data of other languages, and find other events that may have impacted the pageviews.
 - During week 3, Léopaul will work on the report and the video presentation (+ any video editing ?).
@@ -73,4 +73,3 @@ Léopaul:
 - Is our approach to generate a list of articles methodologically sound?
 - Do you suggest any method to enrich the list of privacy-related articles?
 - How can we become aware of any other similar events like PRISM reveal that can cause an increase in the pageviews of privacy-related articles?
-
