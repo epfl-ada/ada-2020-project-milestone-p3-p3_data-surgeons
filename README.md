@@ -39,7 +39,7 @@ During week 1 everyone will work on annotating the given articles to construct o
 Daniel:
 - During week 1 or 2 (depending on how long the annotation process takes), Daniel will create code to query and process the Pageview API into a DataFrame suitable for our analysis. 
 - During week 2 Daniel will analyze (and produce a figure of) the overall pageviews of wikipedia in comparison to our subgroup.
-- During week 3 Daniel will work a lot on the text of the report itself, while also working on the script and the voiceover for the video.
+- During week 3 Daniel will work a lot on the text of the report itself, while also working on the script for the video. He may also lend his beautiful voice to do the voiceover in the video.
 
 Hatef:
 - During week 1, Hatef will annotate the articles for the dataset. 
